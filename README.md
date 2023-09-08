@@ -23,12 +23,12 @@ Light and Dark Mode: Customize your app experience by switching between light an
       cloud_firestore:
   
 # Screenshot
-<img src="https://github.com/AkashKumarJyoti/images/blob/master/Bill%20Splitter/img5.jpg"  width="350" height="600" />
+<img src="https://github.com/AkashKumarJyoti/images/blob/master/Bill%20Splitter/img1.jpg"  width="350" height="600" />
 <p float="left">
-  <img src="https://github.com/AkashKumarJyoti/images/blob/master/Bill%20Splitter/img4.jpg" width="350" height="600" />
+  <img src="https://github.com/AkashKumarJyoti/images/blob/master/Bill%20Splitter/img2.jpg" width="350" height="600" />
   <img src="https://github.com/AkashKumarJyoti/images/blob/master/Bill%20Splitter/img3.jpg" width="350" height="600" />
 </p>
 <p float="left">
-  <img src="https://github.com/AkashKumarJyoti/images/blob/master/Bill%20Splitter/img1.jpg" width="350" height="600" />
-  <img src="https://github.com/AkashKumarJyoti/images/blob/master/Bill%20Splitter/img2.jpg" width="350" height="600" />
+  <img src="https://github.com/AkashKumarJyoti/images/blob/master/Bill%20Splitter/img4.jpg" width="350" height="600" />
+  <img src="https://github.com/AkashKumarJyoti/images/blob/master/Bill%20Splitter/img5.jpg" width="350" height="600" />
 </p>
